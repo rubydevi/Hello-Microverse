@@ -134,7 +134,7 @@ To run tests, run the following command:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -148,7 +148,7 @@ If you like this project please leave a star, I'd really appreciate it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## Acknowledgments <a name="acknowledgements"></a>
 
 - I'd like to thank Microverse for this wonderful README template.
 
